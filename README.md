@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdtMnA0bDlyMW96dGh3Y3BjaGx3aXRrcDBhNGZ3MWxnNmdjcDFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3V8ZFX5BSD30JN0xRx/giphy.gif" alt="Welcome" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNneWIxb3A3aDd5c3V2c21kZGluN2w0OW8xMnN4a2VycW54NmlqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRmvJKOeyRW5sP3NRd/giphy.gif" alt="Welcome" width="300"/>
 </p>
 
 <h1 align="center">Welcome to My Profile! 👋</h1>
 <p align="center">
  
-</p>
 
 
 
