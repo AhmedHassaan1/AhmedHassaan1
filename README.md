@@ -7,7 +7,7 @@
  
 </p>
 
-# 👋 Hi there, I'm **Ahmed Hassaan**  
+# 👋 I'm **Ahmed Hassaan**  
 🎨 **Creative Graphic Designer** | 🧠 **AI Enthusiast** | 🎥 **Visual Storyteller**  
 
 ---
