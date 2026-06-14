@@ -149,7 +149,7 @@ If you have a project worth building â€” let's talk.
 | Email | [a.hassaan.emam@gmail.com](mailto:a.hassaan.emam@gmail.com) |
 | LinkedIn | [linkedin.com/in/ahmeedhassaan0](https://linkedin.com/in/ahmeedhassaan0) |
 | WhatsApp | [+20 102 267 7775](https://wa.me/201022677775) |
-| Live Project | [fat7t-5er.vercel.app](https://fat7t-5er.vercel.app) |
+
 
 <br/>
 
