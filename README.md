@@ -1,70 +1,218 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZoNGJ1NGYwcWEwbzRic2NoaW9tOGswMnpoa3psbDVmNmhlbHU2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GW0HfUjMWAYlGG6coE/giphy.gif" alt="Welcome" width="300"/>
-</p>
+<div align="center">
 
-<h1 align="center">Welcome to My Profile! 👋</h1>
-<p align="center">
- 
+# AHMED HASSAAN
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Building+Scalable+Digital+Products;Next.js+%7C+TypeScript+%7C+PostgreSQL;Performance+%7C+Architecture+%7C+UX" />
 
+<br/>
 
-# 👋 I'm **Ahmed Hassaan**  
-🎨 **Creative Graphic Designer** | 🧠 **AI Enthusiast** | 🎥 **Visual Storyteller**  
+<a href="mailto:a.hassaan.emam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<a href="https://linkedin.com/in/ahmeedhassaan0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🚀 **About Me**  
-I’m a **versatile designer** with a passion for blending **creativity** and **technology**. From mastering **Adobe tools** to exploring **AI-driven design**, I strive to deliver **exceptional visual experiences**.
+<a href="https://github.com/AhmedHassaan2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 💡 **My Favorite Tools**  
-Here’s what I specialize in:  
-- 🖼️ **Adobe Photoshop**: Advanced photo editing and creative manipulations.  
-- 🎨 **Adobe Illustrator**: Stunning **vector-based designs** and illustrations.  
-- 🎥 **Adobe Premiere Pro**: High-quality **video production** and **motion graphics**.  
-- 🌟 **Canva**: Quick and **impactful designs** for various platforms.  
-- 🤖 **AI Tools**: Generating **professional images** and writing **precise prompts** for **AI-based creativity**.
+<a href="https://wa.me/201022677775">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
----
-
-### 🌟 **Skills & Interests**  
-💼 **Graphic Design** & **Branding**  
-🎨 **Digital Art** & **Illustration**  
-📱 **UI/UX Prototyping**  
-🎬 **Video Editing** & **Motion Graphics**  
-🤖 **AI-Driven Creativity** (Image generation, prompt crafting)  
-🔍 **Advanced Internet Research**
+</div>
 
 ---
 
-### 🔥 **What I’m Working On**  
-- Expanding my **portfolio** with **AI-driven projects** and **innovative designs**.  
-- Exploring **advanced typography** and **motion design** techniques.  
-- Sharing knowledge and collaborating on **open-source design projects**.  
+##  About Me
+
+```typescript
+class AhmedHassaan {
+  role = "Full-Stack Developer";
+
+  expertise = [
+    "Modern Web Applications",
+    "Scalable E-Commerce Platforms",
+    "System Design",
+    "Performance Optimization"
+  ];
+
+  stack = {
+    frontend: ["Next.js", "React", "TypeScript"],
+    backend: ["Node.js", "Server Actions"],
+    database: ["PostgreSQL", "Prisma"],
+    styling: ["Tailwind CSS"]
+  };
+
+  currentProject = "Fat7t 5er";
+
+  mission() {
+    return "Building scalable products with exceptional user experience.";
+  }
+}
+```
+
+### Professional Summary
+
+Full-Stack Developer focused on building production-grade web applications with modern technologies, scalable architecture, and performance-first engineering.
+
+Passionate about transforming ideas into reliable digital products and creating seamless user experiences from frontend to backend.
+
+### Core Strengths
+
+* 🚀 Scalable Web Applications
+* ⚡ Performance Optimization
+* 🏗 Clean Architecture
+* 🛒 E-Commerce Systems
+* 🎯 Product-Focused Engineering
+* 📈 Continuous Learning
 
 ---
 
-### 📫 **Connect With Me**  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmeedhassaan0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/ahmedhassan325">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://www.facebook.com/ahmd.hsan2/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/aa7maa/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/AhmedHassaan1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
+</div>
+
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://fat7t-5er.vercel.app">
+
+<img
+src="https://raw.githubusercontent.com/AhmedHassaan2/fat7t-5er/main/portfolio/screenshots/preview.gif"
+width="90%" />
+
+</a>
+
+</div>
+
+### FAT7T 5ER
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/AhmedHassaan2/fat7t-5er/main/portfolio/screenshots/preview.gif"
+width="85%" />
+
+</div>
+
+
+Modern bilingual e-commerce platform built for the Egyptian market.
+
+#### Highlights
+
+* WhatsApp Checkout
+* Product Comparison
+* Variant Matrix
+* Dynamic Section Builder
+* Role-Based Access Control
+* Advanced Search
+* SEO Optimization
+* Arabic & English Support
+
+#### Tech Stack
+
+`Next.js` • `TypeScript` • `PostgreSQL` • `Prisma` • `Tailwind CSS`
+
+#### Live Demo
+
+https://fat7t-5er.vercel.app
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNsMHprbzhhYWludGZwYXA5enBud2pkNzFnczdyY2swdjdhOGVkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/flwm64lGN9ejwtbyCp/giphy.gif" alt="Welcome" width="300"/>
-</p>
+## ⚒️ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,postgres,prisma,tailwind,html,css,git,github,vercel,vscode&perline=5" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedHassaan2&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassaan2&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHassaan2&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHassaan2&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 🏆 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedHassaan2&theme=tokyonight&row=1&column=7&no-frame=true" />
+
+</div>
+
+---
+
+## 🎯 Development Philosophy
+
+> Build Products, Not Pages.
+
+> Solve Problems, Not Tickets.
+
+> Design Systems, Not Components.
+
+> Optimize Outcomes, Not Features.
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:a.hassaan.emam@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/ahmeedhassaan0">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/201022677775">
+<img src="https://img.shields.io/badge/WHATSAPP-CHAT_NOW-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://fat7t-5er.vercel.app">
+<img src="https://img.shields.io/badge/FAT7T_5ER-LIVE_DEMO-00E5FF?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Code is not just what I write
+
+# It's how I solve problems.
+
+</div>
